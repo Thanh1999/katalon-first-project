@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Verify_Social_Icon,Chrome 125.0.0.0,,,28-05-2024 20:54:34,28-05-2024 20:54:53,18.692s,PASSED
+,,,,,,,
+Test Cases/CURA Healthcare/Verify_Dribbble_Ico,Chrome 125.0.0.0,,,28-05-2024 20:54:35,28-05-2024 20:54:43,8.675s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 20:54:36,28-05-2024 20:54:40,4.005s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 125.0.0.0,,,28-05-2024 20:54:40,28-05-2024 20:54:41,1.261s,PASSED
+"verifyElementPresent(findTestObject(""Page_CURA Healthcare Service/i_infokatalon.com_fa fa-dribbble fa-fw fa-3x""), 0)",Chrome 125.0.0.0,,,28-05-2024 20:54:41,28-05-2024 20:54:43,2.142s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,28-05-2024 20:54:43,28-05-2024 20:54:43,0.164s,PASSED
+,,,,,,,
+Test Cases/CURA Healthcare/Verify_Facebook_Ico,Chrome 125.0.0.0,,,28-05-2024 20:54:43,28-05-2024 20:54:48,5.133s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 20:54:43,28-05-2024 20:54:44,0.902s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 125.0.0.0,,,28-05-2024 20:54:44,28-05-2024 20:54:48,3.747s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_CURA Healthcare Service/i_infokatalon.com_fa fa-facebook fa-fw fa-3x""), 0)",Chrome 125.0.0.0,,,28-05-2024 20:54:48,28-05-2024 20:54:48,0.300s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,28-05-2024 20:54:48,28-05-2024 20:54:48,0.117s,PASSED
+,,,,,,,
+Test Cases/CURA Healthcare/Verify_Twitter_Ico,Chrome 125.0.0.0,,,28-05-2024 20:54:48,28-05-2024 20:54:53,4.275s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 20:54:48,28-05-2024 20:54:49,0.764s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 125.0.0.0,,,28-05-2024 20:54:49,28-05-2024 20:54:52,3.088s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_CURA Healthcare Service/i_infokatalon.com_fa fa-facebook fa-fw fa-3x""), 0)",Chrome 125.0.0.0,,,28-05-2024 20:54:52,28-05-2024 20:54:53,0.284s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,28-05-2024 20:54:53,28-05-2024 20:54:53,0.127s,PASSED

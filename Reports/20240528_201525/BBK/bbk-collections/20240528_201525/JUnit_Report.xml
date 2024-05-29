@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="bbk-collections" time="290.697" tests="8" failures="0" errors="0">
+   <testsuite name="all-bbk" tests="8" failures="0" errors="0" time="282.422" skipped="0" timestamp="28-05-2024T20:15:33" hostname="PC - DESKTOP-EVNNDTO" id="Test Suites/BBK/all-bbk">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\PC\\git\\katalon-first-project\\Reports\\20240528_201525\\BBK\\all-bbk\\20240528_201526"/>
+         <property name="logFiles" value="C:\\Users\\PC\\git\\katalon-first-project\\Reports\\20240528_201525\\BBK\\all-bbk\\20240528_201526\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="PC - DESKTOP-EVNNDTO"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.156"/>
+         <property name="sessionId" value="d8d414c65916170574dbca1c34799408"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/BBK/check-button-1" time="41.406" classname="Test Cases/BBK/check-button-1" status="PASSED">
+         <system-out><![CDATA[28-05-2024T20:15:33 - [TEST_CASE][PASSED] - Test Cases/BBK/check-button-1: Test Cases/BBK/check-button-1
+
+28-05-2024T20:15:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+28-05-2024T20:15:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+28-05-2024T20:15:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+28-05-2024T20:15:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+28-05-2024T20:15:35 - [TEST_STEP][PASSED] - navigateToUrl("https://www.kbb.com/"): Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:15:43 - [MESSAGE][PASSED] - Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:15:43 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_Price NewUsed")): Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_Price NewUsed' is visible
+
+28-05-2024T20:16:14 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='superHeroBannerContainer']/div[2]/div/div/a/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+28-05-2024T20:16:14 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_Price NewUsed'. Try using Self-healing.
+
+28-05-2024T20:16:15 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_Price NewUsed' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Kelley Knows Cars'])[1]/following::span[1]'.
+
+28-05-2024T20:16:15 - [MESSAGE][PASSED] - Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_Price NewUsed' is visible
+
+28-05-2024T20:16:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+28-05-2024T20:16:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/BBK/check-button-2" time="38.569" classname="Test Cases/BBK/check-button-2" status="PASSED">
+         <system-out><![CDATA[28-05-2024T20:16:15 - [TEST_CASE][PASSED] - Test Cases/BBK/check-button-2: Test Cases/BBK/check-button-2
+
+28-05-2024T20:16:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+28-05-2024T20:16:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+28-05-2024T20:16:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+28-05-2024T20:16:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+28-05-2024T20:16:16 - [TEST_STEP][PASSED] - navigateToUrl("https://www.kbb.com/"): Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:16:21 - [MESSAGE][PASSED] - Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:16:21 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_My Cars Value")): Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_My Cars Value' is visible
+
+28-05-2024T20:16:53 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='superHeroBannerContainer']/div[2]/div/div/a[2]/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+28-05-2024T20:16:53 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_My Cars Value'. Try using Self-healing.
+
+28-05-2024T20:16:53 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_My Cars Value' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Price New/Used'])[2]/following::span[1]'.
+
+28-05-2024T20:16:53 - [MESSAGE][PASSED] - Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_My Cars Value' is visible
+
+28-05-2024T20:16:53 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+28-05-2024T20:16:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/BBK/check-button-3" time="45.725" classname="Test Cases/BBK/check-button-3" status="PASSED">
+         <system-out><![CDATA[28-05-2024T20:16:53 - [TEST_CASE][PASSED] - Test Cases/BBK/check-button-3: Test Cases/BBK/check-button-3
+
+28-05-2024T20:16:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+28-05-2024T20:16:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+28-05-2024T20:16:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+28-05-2024T20:16:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+28-05-2024T20:16:54 - [TEST_STEP][PASSED] - navigateToUrl("https://www.kbb.com/"): Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:17:03 - [MESSAGE][PASSED] - Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:17:03 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_Shop Cars for Sale")): Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_Shop Cars for Sale' is visible
+
+28-05-2024T20:17:36 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='superHeroBannerContainer']/div[2]/div/div/a[3]/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+28-05-2024T20:17:36 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_Shop Cars for Sale'. Try using Self-healing.
+
+28-05-2024T20:17:39 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_Shop Cars for Sale' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Price New/Used'])[2]/following::span[2]'.
+
+28-05-2024T20:17:39 - [MESSAGE][PASSED] - Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_Shop Cars for Sale' is visible
+
+28-05-2024T20:17:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+28-05-2024T20:17:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/BBK/check-hero-banner" time="50.894" classname="Test Cases/BBK/check-hero-banner" status="PASSED">
+         <system-out><![CDATA[28-05-2024T20:17:39 - [TEST_CASE][PASSED] - Test Cases/BBK/check-hero-banner: Test Cases/BBK/check-hero-banner
+
+28-05-2024T20:17:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+28-05-2024T20:17:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+28-05-2024T20:17:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+28-05-2024T20:17:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+28-05-2024T20:17:40 - [TEST_STEP][PASSED] - navigateToUrl("https://www.kbb.com/"): Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:17:55 - [MESSAGE][PASSED] - Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:17:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/div_Kelley Knows CarsFrom values to repairs_2ed6c9")): Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/div_Kelley Knows CarsFrom values to repairs_2ed6c9' is visible
+
+28-05-2024T20:18:27 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='superHeroBannerContainer']/div[2]'. Please recheck the objects properties to make sure the desired element is located. 
+
+28-05-2024T20:18:27 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/div_Kelley Knows CarsFrom values to repairs_2ed6c9'. Try using Self-healing.
+
+28-05-2024T20:18:30 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/div_Kelley Knows CarsFrom values to repairs_2ed6c9' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Recalls'])[1]/following::div[7]'.
+
+28-05-2024T20:18:30 - [MESSAGE][PASSED] - Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/div_Kelley Knows CarsFrom values to repairs_2ed6c9' is visible
+
+28-05-2024T20:18:30 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+28-05-2024T20:18:30 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/BBK/check-logo" time="13.866" classname="Test Cases/BBK/check-logo" status="PASSED">
+         <system-out><![CDATA[28-05-2024T20:18:30 - [TEST_CASE][PASSED] - Test Cases/BBK/check-logo: Test Cases/BBK/check-logo
+
+28-05-2024T20:18:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+28-05-2024T20:18:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+28-05-2024T20:18:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+28-05-2024T20:18:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+28-05-2024T20:18:31 - [TEST_STEP][PASSED] - navigateToUrl("https://www.kbb.com/"): Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:18:41 - [MESSAGE][PASSED] - Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:18:41 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/img")): Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/img' is visible
+
+28-05-2024T20:18:44 - [MESSAGE][PASSED] - Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/img' is visible
+
+28-05-2024T20:18:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+28-05-2024T20:18:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/BBK/check-shop-mart-label" time="13.136" classname="Test Cases/BBK/check-shop-mart-label" status="PASSED">
+         <system-out><![CDATA[28-05-2024T20:18:44 - [TEST_CASE][PASSED] - Test Cases/BBK/check-shop-mart-label: Test Cases/BBK/check-shop-mart-label
+
+28-05-2024T20:18:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+28-05-2024T20:18:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+28-05-2024T20:18:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+28-05-2024T20:18:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+28-05-2024T20:18:45 - [TEST_STEP][PASSED] - navigateToUrl("https://www.kbb.com/"): Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:18:54 - [MESSAGE][PASSED] - Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:18:54 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h2_Shop Smart"), "Shop Smart"): Actual text and expected text of test object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h2_Shop Smart' are matched.
+
+28-05-2024T20:18:57 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h2_Shop Smart' are matched.
+
+28-05-2024T20:18:57 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+28-05-2024T20:18:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/BBK/check-shop-mart" time="9.383" classname="Test Cases/BBK/check-shop-mart" status="PASSED">
+         <system-out><![CDATA[28-05-2024T20:18:57 - [TEST_CASE][PASSED] - Test Cases/BBK/check-shop-mart: Test Cases/BBK/check-shop-mart
+
+28-05-2024T20:18:57 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+28-05-2024T20:18:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+28-05-2024T20:18:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+28-05-2024T20:18:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+28-05-2024T20:18:58 - [TEST_STEP][PASSED] - navigateToUrl("https://www.kbb.com/"): Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:19:03 - [MESSAGE][PASSED] - Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:19:03 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h2_Shop Smart")): Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h2_Shop Smart' is visible
+
+28-05-2024T20:19:06 - [MESSAGE][PASSED] - Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h2_Shop Smart' is visible
+
+28-05-2024T20:19:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+28-05-2024T20:19:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/BBK/check-slogan" time="69.293" classname="Test Cases/BBK/check-slogan" status="PASSED">
+         <system-out><![CDATA[28-05-2024T20:19:06 - [TEST_CASE][PASSED] - Test Cases/BBK/check-slogan: Test Cases/BBK/check-slogan
+
+28-05-2024T20:19:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+28-05-2024T20:19:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+28-05-2024T20:19:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+28-05-2024T20:19:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+28-05-2024T20:19:07 - [TEST_STEP][PASSED] - navigateToUrl("https://www.kbb.com/"): Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:19:13 - [MESSAGE][PASSED] - Navigate to 'https://www.kbb.com/' successfully
+
+28-05-2024T20:19:13 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h1_Kelley Knows Cars")): Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h1_Kelley Knows Cars' is visible
+
+28-05-2024T20:19:44 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='superHeroBannerContainer']/div[2]/h1'. Please recheck the objects properties to make sure the desired element is located. 
+
+28-05-2024T20:19:44 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h1_Kelley Knows Cars'. Try using Self-healing.
+
+28-05-2024T20:19:44 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h1_Kelley Knows Cars' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Recalls'])[1]/following::h1[1]'.
+
+28-05-2024T20:19:44 - [MESSAGE][PASSED] - Object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h1_Kelley Knows Cars' is visible
+
+28-05-2024T20:19:44 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h1_Kelley Knows Cars"), "Kelley Knows Cars"): Actual text and expected text of test object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h1_Kelley Knows Cars' are matched.
+
+28-05-2024T20:20:15 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='superHeroBannerContainer']/div[2]/h1'. Please recheck the objects properties to make sure the desired element is located. 
+
+28-05-2024T20:20:15 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h1_Kelley Knows Cars'. Try using Self-healing.
+
+28-05-2024T20:20:15 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h1_Kelley Knows Cars' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Recalls'])[1]/following::h1[1]'.
+
+28-05-2024T20:20:15 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/BBK/Page_Kelley Blue Book  New and Used Car Pri_e90311/h1_Kelley Knows Cars' are matched.
+
+28-05-2024T20:20:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+28-05-2024T20:20:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[28-05-2024T20:15:33 - [TEST_SUITE][PASSED] - all-bbk: Test Cases/BBK/check-slogan]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,83 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+fpt-suites,Chrome 125.0.0.0,,,28-05-2024 22:47:09,28-05-2024 23:21:07,33m - 58.624s,FAILED
+,,,,,,,
+Test Cases/FPT-TC-16-Journey-Clickable,Chrome 125.0.0.0,,,28-05-2024 22:50:13,28-05-2024 22:51:37,1m - 24.120s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 22:50:13,28-05-2024 22:50:14,0.833s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 22:50:14,28-05-2024 22:51:05,51.466s,PASSED
+"click(findTestObject(""Object Repository/FPT/Page_Accompany You on Your Transformation J_93dfc8/a_Accompany You on Your Transformation Journey""))",Chrome 125.0.0.0,,,28-05-2024 22:51:05,28-05-2024 22:51:37,31.798s,FAILED
+,,,,,,,
+Test Cases/FPT-TC05-Verify-ContactUS-From,Chrome 125.0.0.0,,,28-05-2024 22:55:19,28-05-2024 22:56:24,1m - 5.064s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 22:55:19,28-05-2024 22:55:20,0.903s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 22:55:20,28-05-2024 22:55:50,29.839s,PASSED
+"click(findTestObject(""Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Contact us""))",Chrome 125.0.0.0,,,28-05-2024 22:55:50,28-05-2024 22:56:24,34.295s,FAILED
+,,,,,,,
+Test Cases/FPT-TC06-Verify-Career-Clickable,Chrome 125.0.0.0,,,28-05-2024 22:56:24,28-05-2024 22:57:12,47.287s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 22:56:24,28-05-2024 22:56:25,0.861s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 22:56:25,28-05-2024 22:56:38,12.958s,PASSED
+"click(findTestObject(""Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Career""))",Chrome 125.0.0.0,,,28-05-2024 22:56:38,28-05-2024 22:57:11,33.239s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,28-05-2024 22:57:11,28-05-2024 22:57:12,0.155s,PASSED
+,,,,,,,
+Test Cases/FPT-TC19-Mission-Visibility,Chrome 125.0.0.0,,,28-05-2024 22:57:12,28-05-2024 22:57:57,45.850s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 22:57:12,28-05-2024 22:57:12,0.682s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 22:57:12,28-05-2024 22:57:26,13.298s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/div_WE ARE                              a c_6fe479""))",Chrome 125.0.0.0,,,28-05-2024 22:57:26,28-05-2024 22:57:57,31.630s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,28-05-2024 22:57:57,28-05-2024 22:57:57,0.184s,PASSED
+,,,,,,,
+Test Cases/FPT-TC18-Check-Banner-Visibility,Chrome 125.0.0.0,,,28-05-2024 22:57:57,28-05-2024 22:58:11,13.769s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 22:57:58,28-05-2024 22:57:58,0.759s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 22:57:58,28-05-2024 22:58:11,12.789s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,28-05-2024 22:58:11,28-05-2024 22:58:11,0.163s,PASSED
+,,,,,,,
+Test Cases/FPT-TC17-Verify-OurServices,Chrome 125.0.0.0,,,28-05-2024 23:00:53,28-05-2024 23:01:47,53.270s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 23:00:54,28-05-2024 23:00:54,0.845s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 23:00:54,28-05-2024 23:01:07,12.978s,PASSED
+"verifyElementText(findTestObject(""Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/span_Our services""), ""OUR SERVICES"")",Chrome 125.0.0.0,,,28-05-2024 23:01:07,28-05-2024 23:01:47,39.428s,FAILED
+,,,,,,,
+Test Cases/FPT-TC15-Verify_Journey,Chrome 125.0.0.0,,,28-05-2024 23:04:38,28-05-2024 23:05:34,56.304s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 23:04:38,28-05-2024 23:04:39,0.875s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 23:04:39,28-05-2024 23:05:02,23.257s,PASSED
+"verifyElementText(findTestObject(""Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Accompany You on Your Transformation Journey""), ""Accompany You on Your Transformation Journey"")",Chrome 125.0.0.0,,,28-05-2024 23:05:02,28-05-2024 23:05:34,32.160s,FAILED
+,,,,,,,
+Test Cases/FPT-TC14-Verify-Twitter-Clickable,Chrome 125.0.0.0,,,28-05-2024 23:05:34,28-05-2024 23:06:25,50.975s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 23:05:35,28-05-2024 23:05:35,0.952s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 23:05:35,28-05-2024 23:05:53,17.969s,PASSED
+"click(findTestObject(""FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Industries""))",Chrome 125.0.0.0,,,28-05-2024 23:05:53,28-05-2024 23:06:25,31.824s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,28-05-2024 23:06:25,28-05-2024 23:06:25,0.175s,PASSED
+,,,,,,,
+Test Cases/FPT-TC13-Verify-LearnMore-Clickable,Chrome 125.0.0.0,,,28-05-2024 23:08:43,28-05-2024 23:09:29,46.034s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 23:08:43,28-05-2024 23:08:43,0.953s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 23:08:43,28-05-2024 23:08:57,13.126s,PASSED
+"click(findTestObject(""Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Learn more""))",Chrome 125.0.0.0,,,28-05-2024 23:08:57,28-05-2024 23:09:29,31.933s,FAILED
+,,,,,,,
+Test Cases/FPT-TC11-Verify-Event-Clickable,Chrome 125.0.0.0,,,28-05-2024 23:11:55,28-05-2024 23:12:41,45.941s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 23:11:55,28-05-2024 23:11:56,0.808s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 23:11:56,28-05-2024 23:12:09,12.884s,PASSED
+"click(findTestObject(""Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Events""))",Chrome 125.0.0.0,,,28-05-2024 23:12:09,28-05-2024 23:12:41,32.234s,FAILED
+,,,,,,,
+Test Cases/FPT-TC12-Verify-Mission-Clickable,Chrome 125.0.0.0,,,28-05-2024 23:12:41,28-05-2024 23:13:27,45.470s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 23:12:41,28-05-2024 23:12:42,0.843s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 23:12:42,28-05-2024 23:12:55,13.068s,PASSED
+"click(findTestObject(""FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Industries""))",Chrome 125.0.0.0,,,28-05-2024 23:12:55,28-05-2024 23:13:27,31.394s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,28-05-2024 23:13:27,28-05-2024 23:13:27,0.153s,PASSED
+,,,,,,,
+Test Cases/FPT-TC10-Verify-Copyright,Chrome 125.0.0.0,,,28-05-2024 23:15:46,28-05-2024 23:16:34,47.990s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 23:15:46,28-05-2024 23:15:47,0.863s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 23:15:47,28-05-2024 23:16:02,15.208s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/div_Copyright  2023 FPTSoftware""))",Chrome 125.0.0.0,,,28-05-2024 23:16:02,28-05-2024 23:16:34,31.895s,FAILED
+,,,,,,,
+Test Cases/FPT-TC09-Industries-Clickable,Chrome 125.0.0.0,,,28-05-2024 23:16:34,28-05-2024 23:17:20,45.561s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 23:16:34,28-05-2024 23:16:35,0.857s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 23:16:35,28-05-2024 23:16:48,12.991s,PASSED
+"click(findTestObject(""Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Industries""))",Chrome 125.0.0.0,,,28-05-2024 23:16:48,28-05-2024 23:17:19,31.504s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,28-05-2024 23:17:19,28-05-2024 23:17:20,0.163s,PASSED
+,,,,,,,
+Test Cases/FPT-TC08-Verify-Services-Clickable,Chrome 125.0.0.0,,,28-05-2024 23:17:20,28-05-2024 23:18:05,45.745s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 23:17:20,28-05-2024 23:17:20,0.699s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 23:17:20,28-05-2024 23:17:34,13.407s,PASSED
+"click(findTestObject(""Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Services""))",Chrome 125.0.0.0,,,28-05-2024 23:17:34,28-05-2024 23:18:05,31.420s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,28-05-2024 23:18:05,28-05-2024 23:18:05,0.173s,PASSED
+,,,,,,,
+Test Cases/FPT-TC07-Verify-AboutUS-Clickable,Chrome 125.0.0.0,,,28-05-2024 23:20:22,28-05-2024 23:21:07,45.009s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,28-05-2024 23:20:22,28-05-2024 23:20:23,0.869s,PASSED
+"navigateToUrl(""https://fptsoftware.com/"")",Chrome 125.0.0.0,,,28-05-2024 23:20:23,28-05-2024 23:20:36,12.421s,PASSED
+"click(findTestObject(""Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_About Us""))",Chrome 125.0.0.0,,,28-05-2024 23:20:36,28-05-2024 23:21:07,31.692s,FAILED

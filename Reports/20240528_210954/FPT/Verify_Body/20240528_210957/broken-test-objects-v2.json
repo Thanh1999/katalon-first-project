@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/h3_CUSTOMER STORIES",
+      "brokenLocator": "//div[@id\u003d\u0027customer-stories\u0027]/div/div/div/div/div/div/div/h3",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//h3",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/h3_CUSTOMER STORIES_position.png"
+    }
+  ]
+}
