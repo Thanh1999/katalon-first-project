@@ -1,0 +1,100 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+all-kbb,Chrome 125.0.0.0,,,29-05-2024 20:56:14,29-05-2024 21:03:22,7m - 7.977s,FAILED
+,,,,,,,
+Test Cases/KBB/check-connections,Chrome 125.0.0.0,,,29-05-2024 20:56:14,29-05-2024 20:56:28,13.487s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 20:56:14,29-05-2024 20:56:16,1.387s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 20:56:16,29-05-2024 20:56:25,9.179s,PASSED
+"scrollToPosition(0, 0)",Chrome 125.0.0.0,,,29-05-2024 20:56:25,29-05-2024 20:56:25,0.030s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Kelley Blue Book  New and Used Car Pri_e90311/div_FacebookTwitterRSSLinkedInYouTube 1995-_981592""))",Chrome 125.0.0.0,,,29-05-2024 20:56:25,29-05-2024 20:56:27,2.533s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,29-05-2024 20:56:27,29-05-2024 20:56:28,0.181s,PASSED
+,,,,,,,
+Test Cases/KBB/check_button_3,Chrome 125.0.0.0,,,29-05-2024 20:56:28,29-05-2024 20:56:50,22.050s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 20:56:28,29-05-2024 20:56:29,0.951s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 20:56:29,29-05-2024 20:56:47,17.999s,PASSED
+"verifyElementText(findTestObject(""Object Repository/KBB/Page_Kelley Blue Book  New and Used Car Pri_e90311/h2_Shop Best Cars""), ""Shop Best Cars"")",Chrome 125.0.0.0,,,29-05-2024 20:56:47,29-05-2024 20:56:49,2.849s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,29-05-2024 20:56:49,29-05-2024 20:56:50,0.183s,PASSED
+,,,,,,,
+Test Cases/KBB/click-about-us,Chrome 125.0.0.0,,,29-05-2024 20:56:50,29-05-2024 20:57:01,11.337s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 20:56:50,29-05-2024 20:56:50,0.667s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 20:56:50,29-05-2024 20:56:58,7.303s,PASSED
+"scrollToPosition(9999999, 9999999)",Chrome 125.0.0.0,,,29-05-2024 20:56:58,29-05-2024 20:56:58,0.012s,PASSED
+"click(findTestObject(""Object Repository/Page_Kelley Blue Book  New and Used Car Pri_e90311/a_About Us""))",Chrome 125.0.0.0,,,29-05-2024 20:56:58,29-05-2024 20:57:01,3.134s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,29-05-2024 20:57:01,29-05-2024 20:57:01,0.174s,PASSED
+,,,,,,,
+Test Cases/KBB/click-careers,Chrome 125.0.0.0,,,29-05-2024 20:57:01,29-05-2024 20:57:09,8.582s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 20:57:01,29-05-2024 20:57:02,0.673s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 20:57:02,29-05-2024 20:57:06,4.019s,PASSED
+"scrollToPosition(9999999, 9999999)",Chrome 125.0.0.0,,,29-05-2024 20:57:06,29-05-2024 20:57:06,0.010s,PASSED
+"click(findTestObject(""Object Repository/Page_Kelley Blue Book  New and Used Car Pri_e90311/a_Do Not Sell My Personal Information""))",Chrome 125.0.0.0,,,29-05-2024 20:57:06,29-05-2024 20:57:09,3.700s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,29-05-2024 20:57:09,29-05-2024 20:57:09,0.138s,PASSED
+,,,,,,,
+Test Cases/KBB/click-privacy,Chrome 125.0.0.0,,,29-05-2024 20:57:09,29-05-2024 20:57:21,11.423s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 20:57:10,29-05-2024 20:57:10,0.700s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 20:57:10,29-05-2024 20:57:18,7.822s,PASSED
+"scrollToPosition(0, 0)",Chrome 125.0.0.0,,,29-05-2024 20:57:18,29-05-2024 20:57:18,0.011s,PASSED
+"click(findTestObject(""Object Repository/Page_Kelley Blue Book  New and Used Car Pri_e90311/a_Do Not Process My Sensitive Information""))",Chrome 125.0.0.0,,,29-05-2024 20:57:18,29-05-2024 20:57:21,2.683s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,29-05-2024 20:57:21,29-05-2024 20:57:21,0.162s,PASSED
+,,,,,,,
+Test Cases/KBB/test-copyright,Chrome 125.0.0.0,,,29-05-2024 20:57:21,29-05-2024 20:57:32,10.946s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 20:57:21,29-05-2024 20:57:22,0.681s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 20:57:22,29-05-2024 20:57:29,7.704s,PASSED
+"scrollToPosition(9999999, 9999999)",Chrome 125.0.0.0,,,29-05-2024 20:57:29,29-05-2024 20:57:29,0.020s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Kelley Blue Book  New and Used Car Pri_e90311/div_FAQContact UsDo Not Sell My Personal In_2db4c4""))",Chrome 125.0.0.0,,,29-05-2024 20:57:29,29-05-2024 20:57:32,2.331s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,29-05-2024 20:57:32,29-05-2024 20:57:32,0.168s,PASSED
+,,,,,,,
+Test Cases/KBB/test-licking-footer,Chrome 125.0.0.0,,,29-05-2024 20:57:32,29-05-2024 20:57:48,15.999s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 20:57:32,29-05-2024 20:57:33,0.670s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 20:57:33,29-05-2024 20:57:45,12.067s,PASSED
+"scrollToPosition(9999999, 9999999)",Chrome 125.0.0.0,,,29-05-2024 20:57:45,29-05-2024 20:57:45,0.011s,PASSED
+"click(findTestObject(""Object Repository/Page_Kelley Blue Book  New and Used Car Pri_e90311/a_Contact Us""))",Chrome 125.0.0.0,,,29-05-2024 20:57:45,29-05-2024 20:57:48,3.059s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,29-05-2024 20:57:48,29-05-2024 20:57:48,0.153s,PASSED
+,,,,,,,
+Test Cases/KBB/test_button_4,Chrome 125.0.0.0,,,29-05-2024 20:57:48,29-05-2024 20:57:57,8.756s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 20:57:48,29-05-2024 20:57:49,0.682s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 20:57:49,29-05-2024 20:57:54,5.519s,PASSED
+"scrollToPosition(9999999, 9999999)",Chrome 125.0.0.0,,,29-05-2024 20:57:54,29-05-2024 20:57:54,0.011s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Kelley Blue Book  New and Used Car Pri_e90311/h2_Your Car Guide""), ""Your Car Guide"")",Chrome 125.0.0.0,,,29-05-2024 20:57:54,29-05-2024 20:57:56,2.352s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,29-05-2024 20:57:56,29-05-2024 20:57:57,0.153s,PASSED
+,,,,,,,
+Test Cases/KBB/test_click-button-1,Chrome 125.0.0.0,,,29-05-2024 21:00:09,29-05-2024 21:01:15,1m - 6.575s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 21:00:09,29-05-2024 21:00:10,0.896s,PASSED
+"navigateToUrl(""https://www.kbb.com/whats-my-car-worth/"")",Chrome 125.0.0.0,,,29-05-2024 21:00:10,29-05-2024 21:00:38,28.493s,PASSED
+"verifyElementText(findTestObject(""Object Repository/KBB/Page_Kelley Blue Book  New and Used Car Pri_e90311/h2_New Cars by Make""), ""New Cars by Make"")",Chrome 125.0.0.0,,,29-05-2024 21:00:38,29-05-2024 21:01:15,37.177s,FAILED
+,,,,,,,
+Test Cases/KBB/test_click_button,Chrome 125.0.0.0,,,29-05-2024 21:01:15,29-05-2024 21:01:56,40.376s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 21:01:15,29-05-2024 21:01:16,0.871s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 21:01:16,29-05-2024 21:01:24,7.481s,PASSED
+"click(findTestObject(""Object Repository/KBB/Page_Kelley Blue Book  New and Used Car Pri_e90311/span_Price NewUsed""))",Chrome 125.0.0.0,,,29-05-2024 21:01:24,29-05-2024 21:01:55,31.788s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,29-05-2024 21:01:55,29-05-2024 21:01:56,0.192s,PASSED
+,,,,,,,
+Test Cases/KBB/test_footer,Chrome 125.0.0.0,,,29-05-2024 21:01:56,29-05-2024 21:02:12,16.632s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 21:01:56,29-05-2024 21:01:56,0.665s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 21:01:56,29-05-2024 21:02:09,13.051s,PASSED
+"scrollToPosition(9999999, 9999999)",Chrome 125.0.0.0,,,29-05-2024 21:02:09,29-05-2024 21:02:09,0.011s,PASSED
+"click(findTestObject(""Object Repository/Page_Kelley Blue Book  New and Used Car Pri_e90311/a_FAQ""))",Chrome 125.0.0.0,,,29-05-2024 21:02:09,29-05-2024 21:02:12,2.733s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,29-05-2024 21:02:12,29-05-2024 21:02:12,0.138s,PASSED
+,,,,,,,
+Test Cases/KBB/test_logo,Chrome 125.0.0.0,,,29-05-2024 21:02:12,29-05-2024 21:02:22,10.265s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 21:02:12,29-05-2024 21:02:13,0.659s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 21:02:13,29-05-2024 21:02:20,6.688s,PASSED
+"verifyElementText(findTestObject(""Object Repository/KBB/Page_Kelley Blue Book  New and Used Car Pri_e90311/h2_Shop Best Cars""), ""Shop Best Cars"")",Chrome 125.0.0.0,,,29-05-2024 21:02:20,29-05-2024 21:02:22,2.729s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,29-05-2024 21:02:22,29-05-2024 21:02:22,0.180s,PASSED
+,,,,,,,
+Test Cases/KBB/test_menu_1,Chrome 125.0.0.0,,,29-05-2024 21:02:22,29-05-2024 21:02:39,16.462s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 21:02:22,29-05-2024 21:02:23,0.704s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 21:02:23,29-05-2024 21:02:36,12.909s,PASSED
+"scrollToPosition(9999999, 9999999)",Chrome 125.0.0.0,,,29-05-2024 21:02:36,29-05-2024 21:02:36,0.011s,PASSED
+"click(findTestObject(""Object Repository/Page_Kelley Blue Book  New and Used Car Pri_e90311/a_Contact Us""))",Chrome 125.0.0.0,,,29-05-2024 21:02:36,29-05-2024 21:02:39,2.802s,PASSED
+,,,,,,,
+Test Cases/KBB/test_menu_2,Chrome 125.0.0.0,,,29-05-2024 21:03:02,29-05-2024 21:03:09,7.283s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 21:03:02,29-05-2024 21:03:03,0.821s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 21:03:03,29-05-2024 21:03:09,6.229s,PASSED
+"scrollToPosition(9999999, 9999999)",Chrome 125.0.0.0,,,29-05-2024 21:03:09,29-05-2024 21:03:09,0.009s,PASSED
+acceptAlert(),Chrome 125.0.0.0,,,29-05-2024 21:03:09,29-05-2024 21:03:09,0.214s,FAILED
+,,,,,,,
+Test Cases/KBB/test_title_text,Chrome 125.0.0.0,,,29-05-2024 21:03:09,29-05-2024 21:03:22,12.768s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 21:03:09,29-05-2024 21:03:10,0.812s,PASSED
+"navigateToUrl(""https://www.kbb.com/"")",Chrome 125.0.0.0,,,29-05-2024 21:03:10,29-05-2024 21:03:16,5.905s,PASSED
+"verifyElementText(findTestObject(""Object Repository/KBB/Page_Kelley Blue Book  New and Used Car Pri_e90311/div_Sign In-fe7-68a-fe4""), ""Sign In"")",Chrome 125.0.0.0,,,29-05-2024 21:03:16,29-05-2024 21:03:20,3.897s,PASSED
+"click(findTestObject(""Object Repository/KBB/Page_Kelley Blue Book  New and Used Car Pri_e90311/div_Sign In-fe7-68a-fe4""))",Chrome 125.0.0.0,,,29-05-2024 21:03:20,29-05-2024 21:03:22,1.948s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,29-05-2024 21:03:22,29-05-2024 21:03:22,0.169s,PASSED

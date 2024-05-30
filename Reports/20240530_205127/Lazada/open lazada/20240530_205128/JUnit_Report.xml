@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="open lazada" time="843.635" tests="32" failures="0" errors="0">
+   <testsuite name="open lazada" tests="32" failures="0" errors="0" time="843.635" skipped="0" timestamp="30-05-2024T20:51:34" hostname="PC - DESKTOP-EVNNDTO" id="Test Suites/Lazada/open lazada">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\PC\\git\\katalon-first-project\\Reports\\20240530_205127\\Lazada\\open lazada\\20240530_205128"/>
+         <property name="logFiles" value="C:\\Users\\PC\\git\\katalon-first-project\\Reports\\20240530_205127\\Lazada\\open lazada\\20240530_205128\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="PC - DESKTOP-EVNNDTO"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.156"/>
+         <property name="sessionId" value="91230a1e532625eba7fa35b51ca83300"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Lazada/TC_1" time="24.846" classname="Test Cases/Lazada/TC_1" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:51:34 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_1: Test Cases/Lazada/TC_1
+
+30-05-2024T20:51:35 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:51:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:51:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:51:59 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_10" time="32.519" classname="Test Cases/Lazada/TC_10" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:51:59 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_10: Test Cases/Lazada/TC_10
+
+30-05-2024T20:51:59 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:51:59 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:51:59 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:51:59 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:52:32 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_11" time="34.651" classname="Test Cases/Lazada/TC_11" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:52:32 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_11: Test Cases/Lazada/TC_11
+
+30-05-2024T20:52:32 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:52:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:52:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:52:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:53:06 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_12" time="23.164" classname="Test Cases/Lazada/TC_12" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:53:06 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_12: Test Cases/Lazada/TC_12
+
+30-05-2024T20:53:06 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:53:06 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:53:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:53:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:53:30 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_13" time="22.854" classname="Test Cases/Lazada/TC_13" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:53:30 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_13: Test Cases/Lazada/TC_13
+
+30-05-2024T20:53:30 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:53:30 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:53:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:53:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:53:52 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_14" time="23.111" classname="Test Cases/Lazada/TC_14" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:53:52 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_14: Test Cases/Lazada/TC_14
+
+30-05-2024T20:53:53 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:53:53 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:53:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:53:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:54:16 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_15" time="22.893" classname="Test Cases/Lazada/TC_15" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:54:16 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_15: Test Cases/Lazada/TC_15
+
+30-05-2024T20:54:16 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:54:16 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:54:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:54:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:54:39 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_16" time="22.998" classname="Test Cases/Lazada/TC_16" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:54:39 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_16: Test Cases/Lazada/TC_16
+
+30-05-2024T20:54:39 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:54:39 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:54:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:54:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:55:02 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_17" time="24.099" classname="Test Cases/Lazada/TC_17" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:55:02 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_17: Test Cases/Lazada/TC_17
+
+30-05-2024T20:55:02 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:55:02 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:55:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:55:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:55:26 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_18" time="22.879" classname="Test Cases/Lazada/TC_18" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:55:26 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_18: Test Cases/Lazada/TC_18
+
+30-05-2024T20:55:26 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:55:26 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:55:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:55:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:55:48 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_19" time="22.683" classname="Test Cases/Lazada/TC_19" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:55:48 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_19: Test Cases/Lazada/TC_19
+
+30-05-2024T20:55:49 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:55:49 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:55:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:55:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:56:11 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_2" time="22.915" classname="Test Cases/Lazada/TC_2" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:56:11 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_2: Test Cases/Lazada/TC_2
+
+30-05-2024T20:56:11 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:56:11 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:56:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:56:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:56:34 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_20" time="22.751" classname="Test Cases/Lazada/TC_20" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:56:34 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_20: Test Cases/Lazada/TC_20
+
+30-05-2024T20:56:34 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:56:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:56:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:56:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:56:57 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_21" time="22.948" classname="Test Cases/Lazada/TC_21" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:56:57 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_21: Test Cases/Lazada/TC_21
+
+30-05-2024T20:56:57 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:56:57 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:56:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:56:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:57:20 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_22" time="22.81" classname="Test Cases/Lazada/TC_22" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:57:20 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_22: Test Cases/Lazada/TC_22
+
+30-05-2024T20:57:20 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:57:20 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:57:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:57:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:57:43 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_23" time="22.897" classname="Test Cases/Lazada/TC_23" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:57:43 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_23: Test Cases/Lazada/TC_23
+
+30-05-2024T20:57:43 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:57:43 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:57:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:57:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:58:06 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_24" time="22.854" classname="Test Cases/Lazada/TC_24" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:58:06 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_24: Test Cases/Lazada/TC_24
+
+30-05-2024T20:58:06 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:58:06 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:58:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:58:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:58:28 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_25" time="23.489" classname="Test Cases/Lazada/TC_25" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:58:28 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_25: Test Cases/Lazada/TC_25
+
+30-05-2024T20:58:28 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:58:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:58:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:58:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:58:52 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_26" time="23.167" classname="Test Cases/Lazada/TC_26" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:58:52 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_26: Test Cases/Lazada/TC_26
+
+30-05-2024T20:58:52 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:58:52 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:58:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:58:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:59:15 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_27" time="23.148" classname="Test Cases/Lazada/TC_27" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:59:15 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_27: Test Cases/Lazada/TC_27
+
+30-05-2024T20:59:15 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:59:15 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:59:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:59:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T20:59:38 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_28" time="22.797" classname="Test Cases/Lazada/TC_28" status="PASSED">
+         <system-out><![CDATA[30-05-2024T20:59:38 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_28: Test Cases/Lazada/TC_28
+
+30-05-2024T20:59:38 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T20:59:38 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T20:59:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T20:59:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T21:00:01 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_29" time="23.22" classname="Test Cases/Lazada/TC_29" status="PASSED">
+         <system-out><![CDATA[30-05-2024T21:00:01 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_29: Test Cases/Lazada/TC_29
+
+30-05-2024T21:00:01 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T21:00:01 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T21:00:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T21:00:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T21:00:24 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_3" time="23.105" classname="Test Cases/Lazada/TC_3" status="PASSED">
+         <system-out><![CDATA[30-05-2024T21:00:24 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_3: Test Cases/Lazada/TC_3
+
+30-05-2024T21:00:24 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T21:00:24 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T21:00:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T21:00:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T21:00:47 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_30" time="22.906" classname="Test Cases/Lazada/TC_30" status="PASSED">
+         <system-out><![CDATA[30-05-2024T21:00:47 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_30: Test Cases/Lazada/TC_30
+
+30-05-2024T21:00:47 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T21:00:47 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T21:00:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T21:00:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T21:01:10 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_31" time="23.317" classname="Test Cases/Lazada/TC_31" status="PASSED">
+         <system-out><![CDATA[30-05-2024T21:01:10 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_31: Test Cases/Lazada/TC_31
+
+30-05-2024T21:01:10 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T21:01:10 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T21:01:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T21:01:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T21:01:34 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_32" time="34.039" classname="Test Cases/Lazada/TC_32" status="PASSED">
+         <system-out><![CDATA[30-05-2024T21:01:34 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_32: Test Cases/Lazada/TC_32
+
+30-05-2024T21:01:34 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T21:01:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T21:01:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T21:01:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T21:02:08 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_4" time="95.692" classname="Test Cases/Lazada/TC_4" status="PASSED">
+         <system-out><![CDATA[30-05-2024T21:02:08 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_4: Test Cases/Lazada/TC_4
+
+30-05-2024T21:02:08 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T21:02:08 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T21:02:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T21:02:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T21:03:43 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_5" time="22.82" classname="Test Cases/Lazada/TC_5" status="PASSED">
+         <system-out><![CDATA[30-05-2024T21:03:43 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_5: Test Cases/Lazada/TC_5
+
+30-05-2024T21:03:43 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T21:03:43 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T21:03:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T21:03:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T21:04:06 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_6" time="22.889" classname="Test Cases/Lazada/TC_6" status="PASSED">
+         <system-out><![CDATA[30-05-2024T21:04:06 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_6: Test Cases/Lazada/TC_6
+
+30-05-2024T21:04:06 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T21:04:06 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T21:04:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T21:04:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T21:04:29 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_7" time="23.265" classname="Test Cases/Lazada/TC_7" status="PASSED">
+         <system-out><![CDATA[30-05-2024T21:04:29 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_7: Test Cases/Lazada/TC_7
+
+30-05-2024T21:04:29 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T21:04:29 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T21:04:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T21:04:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T21:04:52 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_8" time="22.869" classname="Test Cases/Lazada/TC_8" status="PASSED">
+         <system-out><![CDATA[30-05-2024T21:04:52 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_8: Test Cases/Lazada/TC_8
+
+30-05-2024T21:04:52 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T21:04:52 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T21:04:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T21:04:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T21:05:15 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Lazada/TC_9" time="22.803" classname="Test Cases/Lazada/TC_9" status="PASSED">
+         <system-out><![CDATA[30-05-2024T21:05:15 - [TEST_CASE][PASSED] - Test Cases/Lazada/TC_9: Test Cases/Lazada/TC_9
+
+30-05-2024T21:05:15 - [TEST_STEP][PASSED] - openBrowser("https://www.lazada.vn/#?"): Browser is opened with url: 'https://www.lazada.vn/#?'
+
+30-05-2024T21:05:15 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2024T21:05:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2024T21:05:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2024T21:05:38 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.lazada.vn/#?']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[30-05-2024T20:51:34 - [TEST_SUITE][PASSED] - open lazada: Test Cases/Lazada/TC_9]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

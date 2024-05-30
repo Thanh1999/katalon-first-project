@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+check-body,Chrome 125.0.0.0,,,29-05-2024 21:05:42,29-05-2024 21:25:49,20m - 6.740s,FAILED
+,,,,,,,
+Test Cases/KMS/KMS-Clickable-Test,Chrome 125.0.0.0,,,29-05-2024 21:20:48,29-05-2024 21:25:49,5m - 1.317s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 21:20:48,29-05-2024 21:20:49,1.047s,PASSED
+"navigateToUrl(""https://kms-technology.com/"")",Chrome 125.0.0.0,,,29-05-2024 21:20:49,29-05-2024 21:25:49,5m - 0.249s,FAILED

@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+check-development-path,Chrome 125.0.0.0,,,29-05-2024 21:05:46,29-05-2024 21:45:58,40m - 12.253s,FAILED
+,,,,,,,
+Test Cases/KMS/KMS-Software-Development,Chrome 125.0.0.0,,,29-05-2024 21:20:52,29-05-2024 21:25:53,5m - 1.337s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 21:20:52,29-05-2024 21:20:53,1.054s,PASSED
+"navigateToUrl(""https://kms-technology.com/"")",Chrome 125.0.0.0,,,29-05-2024 21:20:53,29-05-2024 21:25:53,5m - 0.261s,FAILED
+,,,,,,,
+Test Cases/KMS/KMS-Solution,Chrome 125.0.0.0,,,29-05-2024 21:40:57,29-05-2024 21:45:58,5m - 1.141s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 21:40:57,29-05-2024 21:40:58,0.891s,PASSED
+"navigateToUrl(""https://kms-technology.com/"")",Chrome 125.0.0.0,,,29-05-2024 21:40:58,29-05-2024 21:45:58,5m - 0.237s,FAILED

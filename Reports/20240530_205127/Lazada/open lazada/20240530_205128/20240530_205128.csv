@@ -1,0 +1,98 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+open lazada,Chrome 125.0.0.0,,,30-05-2024 20:51:34,30-05-2024 21:05:38,14m - 3.635s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_1,Chrome 125.0.0.0,,,30-05-2024 20:51:34,30-05-2024 20:51:59,24.846s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:51:35,30-05-2024 20:51:59,24.675s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_10,Chrome 125.0.0.0,,,30-05-2024 20:51:59,30-05-2024 20:52:32,32.519s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:51:59,30-05-2024 20:52:32,32.498s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_11,Chrome 125.0.0.0,,,30-05-2024 20:52:32,30-05-2024 20:53:06,34.651s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:52:32,30-05-2024 20:53:06,34.634s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_12,Chrome 125.0.0.0,,,30-05-2024 20:53:06,30-05-2024 20:53:30,23.164s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:53:06,30-05-2024 20:53:30,23.146s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_13,Chrome 125.0.0.0,,,30-05-2024 20:53:30,30-05-2024 20:53:52,22.854s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:53:30,30-05-2024 20:53:52,22.841s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_14,Chrome 125.0.0.0,,,30-05-2024 20:53:52,30-05-2024 20:54:16,23.111s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:53:53,30-05-2024 20:54:16,23.098s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_15,Chrome 125.0.0.0,,,30-05-2024 20:54:16,30-05-2024 20:54:39,22.893s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:54:16,30-05-2024 20:54:39,22.880s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_16,Chrome 125.0.0.0,,,30-05-2024 20:54:39,30-05-2024 20:55:02,22.998s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:54:39,30-05-2024 20:55:02,22.986s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_17,Chrome 125.0.0.0,,,30-05-2024 20:55:02,30-05-2024 20:55:26,24.099s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:55:02,30-05-2024 20:55:26,24.086s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_18,Chrome 125.0.0.0,,,30-05-2024 20:55:26,30-05-2024 20:55:48,22.879s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:55:26,30-05-2024 20:55:48,22.866s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_19,Chrome 125.0.0.0,,,30-05-2024 20:55:48,30-05-2024 20:56:11,22.683s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:55:49,30-05-2024 20:56:11,22.668s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_2,Chrome 125.0.0.0,,,30-05-2024 20:56:11,30-05-2024 20:56:34,22.915s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:56:11,30-05-2024 20:56:34,22.901s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_20,Chrome 125.0.0.0,,,30-05-2024 20:56:34,30-05-2024 20:56:57,22.751s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:56:34,30-05-2024 20:56:57,22.740s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_21,Chrome 125.0.0.0,,,30-05-2024 20:56:57,30-05-2024 20:57:20,22.948s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:56:57,30-05-2024 20:57:20,22.935s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_22,Chrome 125.0.0.0,,,30-05-2024 20:57:20,30-05-2024 20:57:43,22.810s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:57:20,30-05-2024 20:57:43,22.797s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_23,Chrome 125.0.0.0,,,30-05-2024 20:57:43,30-05-2024 20:58:06,22.897s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:57:43,30-05-2024 20:58:06,22.880s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_24,Chrome 125.0.0.0,,,30-05-2024 20:58:06,30-05-2024 20:58:28,22.854s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:58:06,30-05-2024 20:58:28,22.832s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_25,Chrome 125.0.0.0,,,30-05-2024 20:58:28,30-05-2024 20:58:52,23.489s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:58:28,30-05-2024 20:58:52,23.478s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_26,Chrome 125.0.0.0,,,30-05-2024 20:58:52,30-05-2024 20:59:15,23.167s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:58:52,30-05-2024 20:59:15,23.154s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_27,Chrome 125.0.0.0,,,30-05-2024 20:59:15,30-05-2024 20:59:38,23.148s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:59:15,30-05-2024 20:59:38,23.135s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_28,Chrome 125.0.0.0,,,30-05-2024 20:59:38,30-05-2024 21:00:01,22.797s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 20:59:38,30-05-2024 21:00:01,22.787s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_29,Chrome 125.0.0.0,,,30-05-2024 21:00:01,30-05-2024 21:00:24,23.220s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 21:00:01,30-05-2024 21:00:24,23.207s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_3,Chrome 125.0.0.0,,,30-05-2024 21:00:24,30-05-2024 21:00:47,23.105s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 21:00:24,30-05-2024 21:00:47,23.091s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_30,Chrome 125.0.0.0,,,30-05-2024 21:00:47,30-05-2024 21:01:10,22.906s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 21:00:47,30-05-2024 21:01:10,22.896s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_31,Chrome 125.0.0.0,,,30-05-2024 21:01:10,30-05-2024 21:01:34,23.317s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 21:01:10,30-05-2024 21:01:34,23.308s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_32,Chrome 125.0.0.0,,,30-05-2024 21:01:34,30-05-2024 21:02:08,34.039s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 21:01:34,30-05-2024 21:02:08,34.028s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_4,Chrome 125.0.0.0,,,30-05-2024 21:02:08,30-05-2024 21:03:43,1m - 35.692s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 21:02:08,30-05-2024 21:03:43,1m - 35.679s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_5,Chrome 125.0.0.0,,,30-05-2024 21:03:43,30-05-2024 21:04:06,22.820s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 21:03:43,30-05-2024 21:04:06,22.807s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_6,Chrome 125.0.0.0,,,30-05-2024 21:04:06,30-05-2024 21:04:29,22.889s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 21:04:06,30-05-2024 21:04:29,22.877s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_7,Chrome 125.0.0.0,,,30-05-2024 21:04:29,30-05-2024 21:04:52,23.265s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 21:04:29,30-05-2024 21:04:52,23.256s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_8,Chrome 125.0.0.0,,,30-05-2024 21:04:52,30-05-2024 21:05:15,22.869s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 21:04:52,30-05-2024 21:05:15,22.858s,PASSED
+,,,,,,,
+Test Cases/Lazada/TC_9,Chrome 125.0.0.0,,,30-05-2024 21:05:15,30-05-2024 21:05:38,22.803s,PASSED
+"openBrowser(""https://www.lazada.vn/#?"")",Chrome 125.0.0.0,,,30-05-2024 21:05:15,30-05-2024 21:05:38,22.791s,PASSED

@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+check-banner,Chrome 125.0.0.0,,,29-05-2024 21:05:39,29-05-2024 21:15:43,10m - 4.319s,PASSED
+,,,,,,,
+Test Cases/KMS/KMS-Check-Body,Chrome 125.0.0.0,,,29-05-2024 21:10:42,29-05-2024 21:15:43,5m - 1.889s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 21:10:42,29-05-2024 21:10:43,1.013s,PASSED
+"navigateToUrl(""https://kms-technology.com/"")",Chrome 125.0.0.0,,,29-05-2024 21:10:43,29-05-2024 21:10:43,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/KMS/Page_Custom Software Development  Consultin_0ef814/div_Our End-to-End Custom Software Developm_b402b8""))",Chrome 125.0.0.0,,,29-05-2024 21:10:43,29-05-2024 21:15:43,5m - 0.191s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,29-05-2024 21:15:43,29-05-2024 21:15:43,0.243s,PASSED

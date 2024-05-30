@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+check-something,Chrome 125.0.0.0,,,29-05-2024 21:05:58,29-05-2024 21:46:11,40m - 12.832s,FAILED
+,,,,,,,
+Test Cases/KMS/KMS-Service-Clickable,Chrome 125.0.0.0,,,29-05-2024 21:21:05,29-05-2024 21:26:06,5m - 1.271s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 21:21:05,29-05-2024 21:21:06,0.996s,PASSED
+"navigateToUrl(""https://kms-technology.com/"")",Chrome 125.0.0.0,,,29-05-2024 21:21:06,29-05-2024 21:26:06,5m - 0.257s,FAILED
+,,,,,,,
+Test Cases/KMS/KMS-Transformation-Services,Chrome 125.0.0.0,,,29-05-2024 21:41:10,29-05-2024 21:46:11,5m - 1.154s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,29-05-2024 21:41:10,29-05-2024 21:41:11,0.880s,PASSED
+"navigateToUrl(""https://kms-technology.com/"")",Chrome 125.0.0.0,,,29-05-2024 21:41:11,29-05-2024 21:46:11,5m - 0.257s,FAILED
