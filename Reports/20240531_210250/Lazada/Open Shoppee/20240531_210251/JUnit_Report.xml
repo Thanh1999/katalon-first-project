@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Open Shoppee" time="4.93" tests="1" failures="0" errors="0">
+   <testsuite name="Open Shoppee" tests="1" failures="0" errors="0" time="4.93" skipped="0" timestamp="31-05-2024T21:03:00" hostname="PC - DESKTOP-EVNNDTO" id="Test Suites/Lazada/Open Shoppee">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\PC\\git\\katalon-first-project\\Reports\\20240531_210250\\Lazada\\Open Shoppee\\20240531_210251"/>
+         <property name="logFiles" value="C:\\Users\\PC\\git\\katalon-first-project\\Reports\\20240531_210250\\Lazada\\Open Shoppee\\20240531_210251\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="PC - DESKTOP-EVNNDTO"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.156"/>
+         <property name="sessionId" value="209d83e2200be4b226debf53f40ccc52"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Lazada/Br" time="4.806" classname="Test Cases/Lazada/Br" status="PASSED">
+         <system-out><![CDATA[31-05-2024T21:03:00 - [TEST_CASE][PASSED] - Test Cases/Lazada/Br: Test Cases/Lazada/Br
+
+31-05-2024T21:03:00 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+31-05-2024T21:03:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+31-05-2024T21:03:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+31-05-2024T21:03:04 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+31-05-2024T21:03:04 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+31-05-2024T21:03:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[31-05-2024T21:03:00 - [TEST_SUITE][PASSED] - Open Shoppee: Test Cases/Lazada/Br]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

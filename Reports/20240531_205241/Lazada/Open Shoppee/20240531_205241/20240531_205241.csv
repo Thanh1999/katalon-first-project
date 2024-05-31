@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Open Shoppee,Chrome 125.0.0.0,,,31-05-2024 20:52:48,31-05-2024 20:52:53,4.944s,PASSED
+,,,,,,,
+Test Cases/Lazada/Br,Chrome 125.0.0.0,,,31-05-2024 20:52:48,31-05-2024 20:52:53,4.826s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,31-05-2024 20:52:48,31-05-2024 20:52:53,4.389s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,31-05-2024 20:52:53,31-05-2024 20:52:53,0.287s,PASSED
