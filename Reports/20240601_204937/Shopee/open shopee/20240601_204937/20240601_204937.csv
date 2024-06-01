@@ -1,0 +1,126 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+open shopee,Chrome 125.0.0.0,,,01-06-2024 20:49:45,01-06-2024 20:51:43,1m - 58.154s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_1,Chrome 125.0.0.0,,,01-06-2024 20:49:45,01-06-2024 20:49:50,4.684s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:49:45,01-06-2024 20:49:50,4.233s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:49:50,01-06-2024 20:49:50,0.290s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_10,Chrome 125.0.0.0,,,01-06-2024 20:49:50,01-06-2024 20:49:54,4.012s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:49:50,01-06-2024 20:49:54,3.711s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:49:54,01-06-2024 20:49:54,0.285s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_11,Chrome 125.0.0.0,,,01-06-2024 20:49:54,01-06-2024 20:49:58,3.975s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:49:54,01-06-2024 20:49:58,3.678s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:49:58,01-06-2024 20:49:58,0.287s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_12,Chrome 125.0.0.0,,,01-06-2024 20:49:58,01-06-2024 20:50:02,3.734s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:49:58,01-06-2024 20:50:01,3.458s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:01,01-06-2024 20:50:02,0.275s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_13,Chrome 125.0.0.0,,,01-06-2024 20:50:02,01-06-2024 20:50:06,4.366s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:02,01-06-2024 20:50:06,4.085s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:06,01-06-2024 20:50:06,0.272s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_14,Chrome 125.0.0.0,,,01-06-2024 20:50:06,01-06-2024 20:50:10,3.824s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:06,01-06-2024 20:50:10,3.537s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:10,01-06-2024 20:50:10,0.284s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_15,Chrome 125.0.0.0,,,01-06-2024 20:50:10,01-06-2024 20:50:13,3.570s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:10,01-06-2024 20:50:13,3.283s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:13,01-06-2024 20:50:13,0.272s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_16,Chrome 125.0.0.0,,,01-06-2024 20:50:13,01-06-2024 20:50:17,3.917s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:13,01-06-2024 20:50:17,3.612s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:17,01-06-2024 20:50:17,0.295s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_17,Chrome 125.0.0.0,,,01-06-2024 20:50:17,01-06-2024 20:50:21,3.713s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:17,01-06-2024 20:50:21,3.409s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:21,01-06-2024 20:50:21,0.282s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_18,Chrome 125.0.0.0,,,01-06-2024 20:50:21,01-06-2024 20:50:25,3.729s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:21,01-06-2024 20:50:25,3.437s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:25,01-06-2024 20:50:25,0.282s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_19,Chrome 125.0.0.0,,,01-06-2024 20:50:25,01-06-2024 20:50:29,3.655s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:25,01-06-2024 20:50:28,3.367s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:28,01-06-2024 20:50:29,0.274s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_2,Chrome 125.0.0.0,,,01-06-2024 20:50:29,01-06-2024 20:50:32,3.580s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:29,01-06-2024 20:50:32,3.291s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:32,01-06-2024 20:50:32,0.282s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_20,Chrome 125.0.0.0,,,01-06-2024 20:50:32,01-06-2024 20:50:36,4.207s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:32,01-06-2024 20:50:36,3.909s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:36,01-06-2024 20:50:36,0.282s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_21,Chrome 125.0.0.0,,,01-06-2024 20:50:36,01-06-2024 20:50:40,3.847s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:36,01-06-2024 20:50:40,3.559s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:40,01-06-2024 20:50:40,0.276s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_22,Chrome 125.0.0.0,,,01-06-2024 20:50:40,01-06-2024 20:50:44,3.814s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:40,01-06-2024 20:50:44,3.529s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:44,01-06-2024 20:50:44,0.272s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_23,Chrome 125.0.0.0,,,01-06-2024 20:50:44,01-06-2024 20:50:47,3.185s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:44,01-06-2024 20:50:47,2.725s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:47,01-06-2024 20:50:47,0.451s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_24,Chrome 125.0.0.0,,,01-06-2024 20:50:47,01-06-2024 20:50:50,2.969s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:47,01-06-2024 20:50:50,2.602s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:50,01-06-2024 20:50:50,0.364s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_25,Chrome 125.0.0.0,,,01-06-2024 20:50:50,01-06-2024 20:50:54,3.556s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:50,01-06-2024 20:50:53,3.265s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:53,01-06-2024 20:50:54,0.282s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_26,Chrome 125.0.0.0,,,01-06-2024 20:50:54,01-06-2024 20:50:58,3.871s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:54,01-06-2024 20:50:57,3.583s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:50:57,01-06-2024 20:50:58,0.280s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_27,Chrome 125.0.0.0,,,01-06-2024 20:50:58,01-06-2024 20:51:01,3.895s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:50:58,01-06-2024 20:51:01,3.593s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:51:01,01-06-2024 20:51:01,0.292s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_28,Chrome 125.0.0.0,,,01-06-2024 20:51:01,01-06-2024 20:51:05,3.638s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:51:01,01-06-2024 20:51:05,3.363s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:51:05,01-06-2024 20:51:05,0.268s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_29,Chrome 125.0.0.0,,,01-06-2024 20:51:05,01-06-2024 20:51:09,3.780s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:51:05,01-06-2024 20:51:09,3.505s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:51:09,01-06-2024 20:51:09,0.272s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_3,Chrome 125.0.0.0,,,01-06-2024 20:51:09,01-06-2024 20:51:13,3.761s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:51:09,01-06-2024 20:51:12,3.466s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:51:12,01-06-2024 20:51:13,0.285s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_30,Chrome 125.0.0.0,,,01-06-2024 20:51:13,01-06-2024 20:51:17,3.872s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:51:13,01-06-2024 20:51:16,3.590s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:51:16,01-06-2024 20:51:17,0.280s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_31,Chrome 125.0.0.0,,,01-06-2024 20:51:17,01-06-2024 20:51:20,3.793s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:51:17,01-06-2024 20:51:20,3.503s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:51:20,01-06-2024 20:51:20,0.284s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_4,Chrome 125.0.0.0,,,01-06-2024 20:51:20,01-06-2024 20:51:24,4.019s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:51:20,01-06-2024 20:51:24,3.715s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:51:24,01-06-2024 20:51:24,0.294s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_5,Chrome 125.0.0.0,,,01-06-2024 20:51:24,01-06-2024 20:51:28,3.928s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:51:24,01-06-2024 20:51:28,3.644s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:51:28,01-06-2024 20:51:28,0.277s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_6,Chrome 125.0.0.0,,,01-06-2024 20:51:28,01-06-2024 20:51:32,3.840s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:51:28,01-06-2024 20:51:32,3.557s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:51:32,01-06-2024 20:51:32,0.281s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_7,Chrome 125.0.0.0,,,01-06-2024 20:51:32,01-06-2024 20:51:36,3.694s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:51:32,01-06-2024 20:51:36,3.402s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:51:36,01-06-2024 20:51:36,0.283s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_8,Chrome 125.0.0.0,,,01-06-2024 20:51:36,01-06-2024 20:51:40,3.698s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:51:36,01-06-2024 20:51:39,3.397s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:51:39,01-06-2024 20:51:40,0.298s,PASSED
+,,,,,,,
+Test Cases/Shopee/S_9,Chrome 125.0.0.0,,,01-06-2024 20:51:40,01-06-2024 20:51:43,3.816s,PASSED
+"openBrowser(""https://shopee.vn/"")",Chrome 125.0.0.0,,,01-06-2024 20:51:40,01-06-2024 20:51:43,3.530s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,01-06-2024 20:51:43,01-06-2024 20:51:43,0.278s,PASSED

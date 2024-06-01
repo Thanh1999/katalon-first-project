@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="open shopee" time="118.154" tests="31" failures="0" errors="0">
+   <testsuite name="open shopee" tests="31" failures="0" errors="0" time="118.154" skipped="0" timestamp="01-06-2024T20:49:45" hostname="PC - DESKTOP-EVNNDTO" id="Test Suites/Shopee/open shopee">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\PC\\git\\katalon-first-project\\Reports\\20240601_204937\\Shopee\\open shopee\\20240601_204937"/>
+         <property name="logFiles" value="C:\\Users\\PC\\git\\katalon-first-project\\Reports\\20240601_204937\\Shopee\\open shopee\\20240601_204937\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="PC - DESKTOP-EVNNDTO"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.156"/>
+         <property name="sessionId" value="55880740edd3e625f67fc292d4912325"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Shopee/S_1" time="4.684" classname="Test Cases/Shopee/S_1" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:49:45 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_1: Test Cases/Shopee/S_1
+
+01-06-2024T20:49:45 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:49:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:49:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:49:50 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:49:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:49:50 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_10" time="4.012" classname="Test Cases/Shopee/S_10" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:49:50 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_10: Test Cases/Shopee/S_10
+
+01-06-2024T20:49:50 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:49:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:49:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:49:54 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:49:54 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:49:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_11" time="3.975" classname="Test Cases/Shopee/S_11" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:49:54 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_11: Test Cases/Shopee/S_11
+
+01-06-2024T20:49:54 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:49:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:49:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:49:58 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:49:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:49:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_12" time="3.734" classname="Test Cases/Shopee/S_12" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:49:58 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_12: Test Cases/Shopee/S_12
+
+01-06-2024T20:49:58 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:49:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:49:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:01 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:01 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:02 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_13" time="4.366" classname="Test Cases/Shopee/S_13" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:02 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_13: Test Cases/Shopee/S_13
+
+01-06-2024T20:50:02 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:06 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_14" time="3.824" classname="Test Cases/Shopee/S_14" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:06 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_14: Test Cases/Shopee/S_14
+
+01-06-2024T20:50:06 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:10 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:10 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:10 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_15" time="3.57" classname="Test Cases/Shopee/S_15" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:10 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_15: Test Cases/Shopee/S_15
+
+01-06-2024T20:50:10 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:13 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_16" time="3.917" classname="Test Cases/Shopee/S_16" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:13 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_16: Test Cases/Shopee/S_16
+
+01-06-2024T20:50:13 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:17 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_17" time="3.713" classname="Test Cases/Shopee/S_17" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:17 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_17: Test Cases/Shopee/S_17
+
+01-06-2024T20:50:17 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:21 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:21 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_18" time="3.729" classname="Test Cases/Shopee/S_18" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:21 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_18: Test Cases/Shopee/S_18
+
+01-06-2024T20:50:21 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:25 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_19" time="3.655" classname="Test Cases/Shopee/S_19" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:25 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_19: Test Cases/Shopee/S_19
+
+01-06-2024T20:50:25 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:28 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:29 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_2" time="3.58" classname="Test Cases/Shopee/S_2" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:29 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_2: Test Cases/Shopee/S_2
+
+01-06-2024T20:50:29 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:32 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_20" time="4.207" classname="Test Cases/Shopee/S_20" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:32 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_20: Test Cases/Shopee/S_20
+
+01-06-2024T20:50:32 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:36 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:36 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:36 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_21" time="3.847" classname="Test Cases/Shopee/S_21" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:36 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_21: Test Cases/Shopee/S_21
+
+01-06-2024T20:50:36 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:40 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:40 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_22" time="3.814" classname="Test Cases/Shopee/S_22" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:40 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_22: Test Cases/Shopee/S_22
+
+01-06-2024T20:50:40 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:44 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_23" time="3.185" classname="Test Cases/Shopee/S_23" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:44 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_23: Test Cases/Shopee/S_23
+
+01-06-2024T20:50:44 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:47 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:47 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_24" time="2.969" classname="Test Cases/Shopee/S_24" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:47 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_24: Test Cases/Shopee/S_24
+
+01-06-2024T20:50:47 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:50 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:50 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_25" time="3.556" classname="Test Cases/Shopee/S_25" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:50 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_25: Test Cases/Shopee/S_25
+
+01-06-2024T20:50:50 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:53 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:53 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_26" time="3.871" classname="Test Cases/Shopee/S_26" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:54 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_26: Test Cases/Shopee/S_26
+
+01-06-2024T20:50:54 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:50:57 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:57 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:50:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_27" time="3.895" classname="Test Cases/Shopee/S_27" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:50:58 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_27: Test Cases/Shopee/S_27
+
+01-06-2024T20:50:58 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:50:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:50:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:51:01 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:01 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:51:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_28" time="3.638" classname="Test Cases/Shopee/S_28" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:51:01 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_28: Test Cases/Shopee/S_28
+
+01-06-2024T20:51:01 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:51:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:51:05 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:51:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_29" time="3.78" classname="Test Cases/Shopee/S_29" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:51:05 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_29: Test Cases/Shopee/S_29
+
+01-06-2024T20:51:05 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:51:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:51:09 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:51:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_3" time="3.761" classname="Test Cases/Shopee/S_3" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:51:09 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_3: Test Cases/Shopee/S_3
+
+01-06-2024T20:51:09 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:51:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:51:12 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:51:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_30" time="3.872" classname="Test Cases/Shopee/S_30" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:51:13 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_30: Test Cases/Shopee/S_30
+
+01-06-2024T20:51:13 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:51:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:51:16 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:51:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_31" time="3.793" classname="Test Cases/Shopee/S_31" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:51:17 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_31: Test Cases/Shopee/S_31
+
+01-06-2024T20:51:17 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:51:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:51:20 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:51:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_4" time="4.019" classname="Test Cases/Shopee/S_4" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:51:20 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_4: Test Cases/Shopee/S_4
+
+01-06-2024T20:51:20 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:51:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:51:24 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:24 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:51:24 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_5" time="3.928" classname="Test Cases/Shopee/S_5" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:51:24 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_5: Test Cases/Shopee/S_5
+
+01-06-2024T20:51:24 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:51:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:51:28 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:51:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_6" time="3.84" classname="Test Cases/Shopee/S_6" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:51:28 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_6: Test Cases/Shopee/S_6
+
+01-06-2024T20:51:28 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:51:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:51:32 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:51:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_7" time="3.694" classname="Test Cases/Shopee/S_7" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:51:32 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_7: Test Cases/Shopee/S_7
+
+01-06-2024T20:51:32 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:51:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:51:36 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:36 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:51:36 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_8" time="3.698" classname="Test Cases/Shopee/S_8" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:51:36 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_8: Test Cases/Shopee/S_8
+
+01-06-2024T20:51:36 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:51:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:51:39 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:51:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Shopee/S_9" time="3.816" classname="Test Cases/Shopee/S_9" status="PASSED">
+         <system-out><![CDATA[01-06-2024T20:51:40 - [TEST_CASE][PASSED] - Test Cases/Shopee/S_9: Test Cases/Shopee/S_9
+
+01-06-2024T20:51:40 - [TEST_STEP][PASSED] - openBrowser("https://shopee.vn/"): Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-06-2024T20:51:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-06-2024T20:51:43 - [MESSAGE][PASSED] - Browser is opened with url: 'https://shopee.vn/'
+
+01-06-2024T20:51:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-06-2024T20:51:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[01-06-2024T20:49:45 - [TEST_SUITE][PASSED] - open shopee: Test Cases/Shopee/S_9]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
