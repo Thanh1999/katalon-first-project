@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+send api,,,,02-06-2024 21:53:01,02-06-2024 21:53:05,3.373s,PASSED
+,,,,,,,
+Test Cases/Lazada/Get request,,,,02-06-2024 21:53:01,02-06-2024 21:53:05,3.249s,PASSED
+"sendRequest(findTestObject(""API""))",,,,02-06-2024 21:53:02,02-06-2024 21:53:05,3.068s,PASSED

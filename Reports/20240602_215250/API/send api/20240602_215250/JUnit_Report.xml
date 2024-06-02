@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="send api" time="3.373" tests="1" failures="0" errors="0">
+   <testsuite name="send api" tests="1" failures="0" errors="0" time="3.373" skipped="0" timestamp="02-06-2024T21:53:01" hostname="PC - DESKTOP-EVNNDTO" id="Test Suites/API/send api">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\PC\\git\\katalon-first-project\\Reports\\20240602_215250\\API\\send api\\20240602_215250"/>
+         <property name="logFiles" value="C:\\Users\\PC\\git\\katalon-first-project\\Reports\\20240602_215250\\API\\send api\\20240602_215250\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="PC - DESKTOP-EVNNDTO"/>
+         <property name="hostAddress" value="192.168.1.156"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Lazada/Get request" time="3.249" classname="Test Cases/Lazada/Get request" status="PASSED">
+         <system-out><![CDATA[02-06-2024T21:53:01 - [TEST_CASE][PASSED] - Test Cases/Lazada/Get request: Test Cases/Lazada/Get request
+
+02-06-2024T21:53:02 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API")): Send request successfully
+
+02-06-2024T21:53:05 - [MESSAGE][INFO] - HAR: C:\Users\PC\git\katalon-first-project\Reports\20240602_215250\API\send api\20240602_215250\requests\main\0.har
+
+02-06-2024T21:53:05 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-06-2024T21:53:01 - [TEST_SUITE][PASSED] - send api: Test Cases/Lazada/Get request]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
